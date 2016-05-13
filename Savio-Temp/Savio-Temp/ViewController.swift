@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Hello Git this is my first commit")
         print("Hello Git this is my second commit")
         print("Hello Git this is my Third commit for first branch")
+        print("Hello Git this is my commit for branch P-3")
     }
 
     override func didReceiveMemoryWarning() {
