@@ -16,13 +16,13 @@ class ViewController: UIViewController {
         print("Hello Git this is my first commit")
         print("Hello Git this is my second commit")
         print("Hello Git this is my Third commit for first branch")
+        print("Hello Git this is my Fourth commit from  branch P-2")
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
 
 }
 
